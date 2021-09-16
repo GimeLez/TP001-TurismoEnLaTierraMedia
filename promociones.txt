@@ -1,0 +1,3 @@
+A,20,Moria,Mordor,AVENTURA
+B,35,Minas Tirith,Erebor,PAISAJE
+C,La Comarca,Lothlorien,Erebor,DEGUSTACION
